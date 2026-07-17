@@ -18,6 +18,9 @@ router
     wrapAsync(listingController.createNewListing),
   );
 
+//new route
+router.get("/new", isLoggedIn, wrapAsync(listingController.renderNewForm));
+
 router
   .route("/:id")
   .get(wrapAsync(listingController.showListing))
@@ -28,9 +31,6 @@ router
     wrapAsync(listingController.updateListing),
   )
   .delete(isLoggedIn, isOwner, wrapAsync(listingController.destroyListing));
-
-//new route
-router.get("/new", isLoggedIn, wrapAsync(listingController.renderNewForm));
 
 //edit route
 router.get(

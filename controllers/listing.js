@@ -5,16 +5,16 @@ module.exports.index = async (req, res) => {
   res.render("listings/index.ejs", { allListings });
 };
 
-module.exports.renderNewForm = async (req, res, next) => {
+module.exports.renderNewForm = async (req, res) => {
+  res.render("listings/new.ejs");
+};
+
+module.exports.createNewListing = async (req, res) => {
   let newListing = new Listing(req.body.listing);
   newListing.owner = req.user._id;
   await newListing.save();
   req.flash("success", "New Listing Created!");
   res.redirect("/listings");
-};
-
-module.exports.createNewListing = async (req, res) => {
-  res.render("listings/new.ejs");
 };
 
 module.exports.showListing = async (req, res) => {
