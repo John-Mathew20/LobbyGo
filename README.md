@@ -17,5 +17,5 @@ WanderLust is a underconstruction website which is a replicate of Airbnb site.
 - Authenication Is completed On the website. yeah!
   
 ---
-<img width="479" height="498" alt="PicooziCuteCatGIF" src="https://github.com/user-attachments/assets/5eca603e-57de-4e00-86d1-0c33767fe23e" />
+<img width="200px" height="200px" alt="PicooziCuteCatGIF" src="https://github.com/user-attachments/assets/5eca603e-57de-4e00-86d1-0c33767fe23e" />
 
