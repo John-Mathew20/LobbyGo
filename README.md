@@ -15,6 +15,13 @@ WanderLust is a underconstruction website which is a replicate of Airbnb site.
 - Client side validation was also added
 - New Folder Was Added Under views, and Files under includes, user, utils, routes and models folder.
 - Authenication Is completed On the website. yeah!
+- Now Website accept images as files instead of links
+- Cloud Storage Is intregrated
+
+# Upcomming Updates 
+- Geolocation and Map markers will be added
+- Fixation of UI/UX
+- Searching of Custom hotels and restorts
   
 ---
 <img width="200px" height="200px" alt="PicooziCuteCatGIF" src="https://github.com/user-attachments/assets/5eca603e-57de-4e00-86d1-0c33767fe23e" />
