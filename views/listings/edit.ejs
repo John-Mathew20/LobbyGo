@@ -37,11 +37,14 @@
           <div class="invalid-feedback">Something is Off !?</div>
         </div>
         <div class="mb-3">
-          <label for="image" class="form-label">Image</label>
+          <label for="OGimage">Original Image</label>
+          <img src="<%= originalImageUrl %>" alt="" />
+        </div>
+        <div class="mb-3">
+          <label for="image" class="form-label">Upload New Image</label>
           <input
             name="listing[image]"
-            value="<%= listing.image %>"
-            type="text"
+            type="file"
             class="form-control"
             required
           />
