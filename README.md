@@ -1,6 +1,6 @@
-# WanderLust
+# LobbyGo
 
-WanderLust is a underconstruction website which is a replicate of Airbnb site.
+LobbyGo is a underconstruction website which is a replicate of Airbnb site.
 
 # Updates till now
 
