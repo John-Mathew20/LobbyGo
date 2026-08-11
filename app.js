@@ -44,7 +44,7 @@ const sessionOptions = {
 
 //home route
 app.get("/", (req, res) => {
-  res.send(`<h1>Hello ${port} working</h1>`);
+  res.redirect("/listings");
 });
 
 app.use(session(sessionOptions));
