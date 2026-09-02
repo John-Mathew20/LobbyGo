@@ -26,13 +26,14 @@
   * `models`
 * 🔐 **Authentication is now completed!**
 
+---
 
-🌐 Live Demo
+## 🌐 Live Demo
 
-🚀 Try LobbyGo:
+🚀 **Try LobbyGo:**
 https://lobbygo.onrender.com/listings/
 
-The live demo is hosted on Render and currently serves the LobbyGo listings page.
+The live demo is hosted on **Render** and currently serves the LobbyGo listings page.
 
 ---
 
@@ -42,23 +43,22 @@ After all the updates, **LobbyGo is now complete!** 🥳
 
 <img width="400" height="267" alt="catdiscoGIF" src="https://github.com/user-attachments/assets/ee96f7cd-4c10-4448-8dbf-fd29c55b38c1" />
 
----
 
-## ▶️ How to Run
+## ▶️ How to Run Locally
 
-Clone the repository and install all the required dependencies:
+Install all required dependencies:
 
 ```bash
 npm install
 ```
 
-Then start the application:
+Start the application:
 
 ```bash
 node app.js
 ```
 
-The application should now be running on your local server.
+Then open the local server in your browser.
 
 ---
 
