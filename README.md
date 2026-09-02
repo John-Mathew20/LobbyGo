@@ -32,7 +32,7 @@
 
 After all the updates, **LobbyGo is now complete!** 🥳
 
-<img width="200px" height="200px" alt="Party Cat Celebration" src="https://github.com/user-attachments/assets/5eca603e-57de-4e00-86d1-0c33767fe23e" />
+<img width="400" height="267" alt="catdiscoGIF" src="https://github.com/user-attachments/assets/ee96f7cd-4c10-4448-8dbf-fd29c55b38c1" />
 
 ---
 
