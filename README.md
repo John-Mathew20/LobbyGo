@@ -26,7 +26,6 @@
   * `models`
 * 🔐 **Authentication is now completed!**
 
----
 
 🌐 Live Demo
 
